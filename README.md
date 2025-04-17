@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Divya Bharti Choudhury!</h1>
+<h1 align="center">Hi 👋, I'm Divya Bharti Choudhury!</h1>
 <h3 align="center">🎓 Recent B.Tech Graduate | 💻 Full Stack Java Developer | 🌐 Web Development Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyagit2003&label=Profile%20views&color=0e75b6&style=flat" alt="divyagit2003" /> </p>
