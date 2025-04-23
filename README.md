@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyagit2003" alt="divyagit2003" /></a> </p>
 
-- 🔭 I’m currently working on **Event Management System** – A full-stack web application using Spring Boot and React.js**
 
 - 📫 How to reach me **choudhurydivya01@gmail.com**
 
